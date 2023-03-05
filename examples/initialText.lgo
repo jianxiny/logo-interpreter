@@ -1,0 +1,22 @@
+; Welcome to Spec Logo!
+;
+; This is a Logo interpreter. Type your instructions
+; at the prompt below, next to the '>'. Your aim is
+; to move the on-screen turtle around in interesting
+; ways.
+;
+; Here's a list of useful instructions:
+;
+; forward n   (fd n)     Move forward n units
+; backward n  (bd n)     Move backward n units
+; left n      (lt n)     Rotate turtle n degrees
+;                        anti-clockwise
+; right n     (rt n)     Rotate turtle n degrees
+;                        clockwise
+; penup       (pu)       Lift the pen up
+; pendown     (pd)       Set the pen down
+; clearscreen (cs)       Clears the screen
+
+;
+; Have fun!
+;
